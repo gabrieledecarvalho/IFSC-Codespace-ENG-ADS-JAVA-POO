@@ -43,8 +43,14 @@ public class EX1PecaLego {
         // Fazendo as peças realizarem ações
         pecaVermelha.mostrarDetalhes();
         pecaAzul.mostrarDetalhes();
+        pecaAmarela.mostrarDetalhes();
 
         pecaVermelha.girar();
         pecaAzul.girar();
+        pecaAmarela.girar();
+
+        pecaVermelha.rotacao();
+        pecaAzul.rotacao();
+        pecaAmarela.rotacao();
     }
 }
