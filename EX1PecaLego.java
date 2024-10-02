@@ -36,7 +36,7 @@ public class EX1PecaLego {
         pecaVermelha.altura = 5;
 
         pecaAmarela.cor = "Amarela";
-        pecaAmarela.formato = "Retangular"
+        pecaAmarela.formato = "Retangular";
         pecaAmarela.numeroDePinos = 8;
         pecaAmarela.altura = 2;
 

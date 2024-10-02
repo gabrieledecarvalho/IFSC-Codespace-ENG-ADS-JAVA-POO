@@ -14,7 +14,7 @@ public class EX2PecaLego {
     }
 
     // Novo método para interação entre peças
-    public void empilharSobre(EX1PecaLego outraPeca) {
+    public void empilharSobre(PecaLego outraPeca) {
         System.out.println("Peça Lego " + this.cor + " foi empilhada sobre a peça Lego " + outraPeca.cor + "."); 
     } 
 
