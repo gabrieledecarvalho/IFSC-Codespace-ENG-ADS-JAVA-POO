@@ -1,5 +1,5 @@
 public class E1_5Teste {
-    public static void main(public static void main(String[] args) {
+    public static void main (String[] args) {
         int a = 1;
         int b = 0;
 
